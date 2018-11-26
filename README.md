@@ -9,3 +9,6 @@ sql表已导出
 3.item有父类可以提取
 4.动态网站抓取scrapy-splash待学习
 5.如何在爬虫运行时，动态添加待爬取url，scrapy-redis的解决方案不够完美
+
+
+README怎么换行，好好地排版，传上去就乱了
